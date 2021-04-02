@@ -1,10 +1,10 @@
 # Happy-gitting-
 
-Hello there!
+Hello there! Welcome!
 
 Just try out the git thing and enjoy gitting!
 
-Here's an image
+Ready to see a wholesome image?
 
 Here is a cute dolphin:
 
